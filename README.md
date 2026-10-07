@@ -95,7 +95,7 @@ python -m pytest
 ## Layout
 
 ```
-attune-voice-agent/
+AI-voice-agent/
 ├── run.py                     # CLI entry point
 ├── data/sample_patient.json   # example patient + appointment
 ├── src/voice_agent/
